@@ -1,11 +1,13 @@
 <h1>Project Overview</h1>
 
 <h1>Project Name: Myntra UI Clone</h1>
-<ul>
-  Objective: Create a responsive and interactive clone of the Myntra e-commerce website's user interface.
-Tech Stack: HTML, CSS, JavaScript
+
+<h4>
+Objective: Create a responsive and interactive clone of the Myntra e-commerce website's user interface.<br/>
+Tech Stack: HTML, CSS, JavaScript<br/>
 Focus Areas: Layout design, responsive design and interactivity.
-</ul>
+</h4>
+
 
 
 <h1>Features to Include -></h1>
