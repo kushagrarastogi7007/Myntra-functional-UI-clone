@@ -1,4 +1,4 @@
-Project Overview
+##Project Overview
 
 Project Name: Myntra UI Clone
 Objective: Create a responsive and interactive clone of the Myntra e-commerce website's user interface.
