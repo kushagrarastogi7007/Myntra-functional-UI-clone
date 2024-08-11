@@ -14,16 +14,22 @@ Focus Areas: Layout design, responsive design and interactivity.
 
 <h2>Homepage Layout:</h2>
 
-Header with logo, search bar, and navigation menu.
-Product categories and collections displayed in a grid layout.
+<h4>
+  Header with logo, search bar, and navigation menu. <br/>
+Product categories and collections displayed in a grid layout.<br/>
 Footer with links to different sections like Help, About, etc.
+</h4>
+
 
 <h2>Product Listings:</h2>
 
-Grid layout for displaying products with images, titles, prices, and ratings.
+<h4>Grid layout for displaying products with images, titles, prices, and ratings.</h4>
 
-Shopping Cart:
+<h2>Shopping Cart:</h2>
 
-Cart icon with item count displayed in the header.
-Cart page with a summary of selected products, total price, and checkout button.
+<h4>
+  Cart icon with item count displayed in the header.<br/>
+Cart page with a summary of selected products, total price, and checkout button.<br/>
 Ability to remove items or update quantities directly in the cart.
+
+</h4>
